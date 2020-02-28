@@ -1,6 +1,8 @@
 #SPluginBase
 一个可以减轻开发人员负担的nukkit插件。包括语言API，常用的扩展函数。
 
+**注意：这个项目本来发布在账号@hhm666上，现因某些原因弃用原账号，若更新将会发布在此账号。**
+
 [English Introduction](README.md)
 
 ##示例用法

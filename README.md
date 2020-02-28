@@ -1,6 +1,8 @@
 # SPluginBase
 A Nukkit plugin that eases the burden on developers. Including language API, commonly used expansion functions.
 
+**NOTICE:This project was originally published on account @hhm666, but now it is abandoned for some reasons. If it is updated, it will be published on this account.**
+
 [中文简介](README_chs.md)
 
 ## Example usage
